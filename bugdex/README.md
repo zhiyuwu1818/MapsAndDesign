@@ -1,0 +1,1 @@
+BugDex is an app to motivate children to learn about the biodiversity of their surroundings in an interactive way. With suitability maps of different species in the area of interest, a competitive leaderboard with friends, and badges in pixel format, we aim to inspire screen-addicted children to do more outdoor activities and interact with the real world.
