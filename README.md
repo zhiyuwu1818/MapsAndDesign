@@ -1,0 +1,1 @@
+This repository contains maps I created during my MSc in Geo-Information Science, for courses including Introduction to Geo-Information Science, Geo-Information Tools, and Spatial and Temporal Analysis of Environmental Science. It also includes the user interface design for BugDex, an app demo I developed.
